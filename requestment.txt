@@ -1,0 +1,6 @@
+pywin32
+pymysql
+ctypes
+logging
+json
+numpy
